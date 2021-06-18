@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Salah-kafrawi
 - 👀 I’m interested in Data Science 
 - 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on data mining projects
 - 📫 How to reach me https://www.linkedin.com/in/kafsalah/
 
 <!---
