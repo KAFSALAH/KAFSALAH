@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 ## 🧰 Languages and Tools:
 
 
-<code><img height="60" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"></code>
+<code><img height="80" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"></code>
 
 
 
