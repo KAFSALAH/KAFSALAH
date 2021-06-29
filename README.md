@@ -11,3 +11,4 @@ You can click the Preview link to take a look at your changes.
 
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=KAFSALAH.KAFSALAH)
+[![Github](https://img.shields.io/github/followers/KAFSALAH?label=Follow&style=social)](https://github.com/KAFSALAH)
