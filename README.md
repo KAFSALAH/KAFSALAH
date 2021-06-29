@@ -4,7 +4,7 @@
 - #### 💞️ I’m looking to collaborate on data mining projects
 - #### 📫 How to reach me:
 - <a href="https://www.linkedin.com/in/kafsalah"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-- <a href="KAFSALAH@MSN.COM"><img src="https://img.shields.io/badge/EMAIL-KAFSALAH%40MSN.COM-orange" /></a>
+- <a ><img src="https://img.shields.io/badge/EMAIL-KAFSALAH%40MSN.COM-orange" /></a>
 
 <!---
 Salah-kafrawi/Salah-kafrawi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
