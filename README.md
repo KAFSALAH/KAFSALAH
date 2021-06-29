@@ -9,10 +9,29 @@ Salah-kafrawi/Salah-kafrawi is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-## 🧰 Languages and Tools:
+### 🧰 Languages:
 
 
-<code><img height="80" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"></code>
+<code><img height="60" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"></code>
+<code><img height="60" src="https://user-images.githubusercontent.com/67054356/115029255-7a76f500-9ece-11eb-8e98-93379f1dacfa.png"></code>
+<code><img height="60" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg"></code>
+<code><img height="60" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg"></code>
+<code><img height="60" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"></code>
+<code><img height="60" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg"></code>
+
+
+
+
+### 🧰 Tools:
+<code><img height="60" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg"></code>
+<code><img height="60" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg"></code>
+<code><img height="60" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg"></code>
+<code><img height="60" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg"></code>
+<code><img height="60" src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg"></code>
+<code><img height="60" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg"></code>
+<code><img height="60" src="https://user-images.githubusercontent.com/67054356/115028247-4fd86c80-9ecd-11eb-9c34-c1ea8f51520a.png"></code>
+
+
 
 
 
