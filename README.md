@@ -8,7 +8,7 @@
 Salah-kafrawi/Salah-kafrawi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
+<p align="center">
 ### 🧰 Languages:
 
 
@@ -32,11 +32,12 @@ You can click the Preview link to take a look at your changes.
 
 
 
-
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KAFSALAH&show_icons=true&theme=radical)
-
 
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=KAFSALAH.KAFSALAH)
 [![Github](https://img.shields.io/github/followers/KAFSALAH?label=Follow&style=social)](https://github.com/tokyonight)
+
+<a href="https://www.linkedin.com/in/kafsalah"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+</p>
