@@ -1,5 +1,5 @@
 - #### 👋 Hi, I’m @KAFSALAH
-- #### 👀 I’m an Electrical Engineer Who is interested in Data Science 
+- #### 👀 I’m an Electrical Engineer who is interested in Data Science 
 - #### 🌱 I’m currently learning Machine Learning
 - #### 💞️ I’m looking to collaborate on data mining projects
 - #### 📫 How to reach me:
