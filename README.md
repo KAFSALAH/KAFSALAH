@@ -1,4 +1,4 @@
-- #### 👋 Hi, I’m @KAFSALAH, I am a Data Science Mater Student at Universiti Malaya.
+- #### 👋 Hi, I’m @KAFSALAH, a Data Science Mater Student at Universiti Malaya.
 - #### 👀 I have a B.Sc. in Electrical Engineering with strong background in Software, Mathematics, Finance, and Management.
 - #### 📫 How to reach me:
 - <a href="https://www.linkedin.com/in/kafsalah"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
