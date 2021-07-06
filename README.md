@@ -1,7 +1,5 @@
-- #### 👋 Hi, I’m @KAFSALAH
-- #### 👀 I’m an Electrical Engineer who is interested in Data Science 
-- #### 🌱 I’m currently learning Machine Learning
-- #### 💞️ I’m looking to collaborate on data mining projects
+- #### 👋 Hi, I’m @KAFSALAH, I am a Data Science Mater Student at Universiti Malaya
+- #### 👀 I have a B.Sc. in Electrical Engineering with strong background in Software, Mathematics, Finance, and Management.
 - #### 📫 How to reach me:
 - <a href="https://www.linkedin.com/in/kafsalah"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 - <code><img height="23" src="https://img.shields.io/badge/EMAIL-KAFSALAH%40MSN.COM-orange"></code>
