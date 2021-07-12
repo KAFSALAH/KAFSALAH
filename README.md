@@ -4,8 +4,6 @@
 - <a href="https://www.linkedin.com/in/kafsalah"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 - <code><img height="23" src="https://img.shields.io/badge/EMAIL-KAFSALAH%40MSN.COM-orange"></code>
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="kafsalah" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://sa.linkedin.com/in/kafsalah?trk=profile-badge">Salah Al-Kafrawi</a></div>
-              
 
 
 <!---
@@ -22,7 +20,9 @@ You can click the Preview link to take a look at your changes.
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg"></code>
 
-
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="kafsalah" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://sa.linkedin.com/in/kafsalah?trk=profile-badge">Salah Al-Kafrawi</a></div>
+              
 
 
 ###### 🧰 Tools:
