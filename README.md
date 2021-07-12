@@ -20,10 +20,7 @@ You can click the Preview link to take a look at your changes.
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg"></code>
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="kafsalah" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://sa.linkedin.com/in/kafsalah?trk=profile-badge">Salah Al-Kafrawi</a></div>
               
-
 
 ###### 🧰 Tools:
 <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg"></code>
@@ -34,9 +31,7 @@ You can click the Preview link to take a look at your changes.
 <code><img height="30" src="https://user-images.githubusercontent.com/67054356/115028247-4fd86c80-9ecd-11eb-9c34-c1ea8f51520a.png"></code>
 
 
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KAFSALAH&show_icons=true&theme=radical)
-
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=KAFSALAH.KAFSALAH)
 [![Github](https://img.shields.io/github/followers/KAFSALAH?label=Follow&style=social)](https://github.com/tokyonight)
