@@ -34,6 +34,6 @@ You can click the Preview link to take a look at your changes.
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KAFSALAH&show_icons=true&theme=radical)
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=KAFSALAH.KAFSALAH)
-[![Github](https://img.shields.io/github/followers/KAFSALAH?label=Follow&style=social)](https://github.com/tokyonight)
+[![Github](https://img.shields.io/github/followers/KAFSALAH?label=Follow&style=social)](https://github.com/KAFSALAH)
 
 
