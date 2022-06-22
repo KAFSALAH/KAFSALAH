@@ -3,7 +3,7 @@
   <img src="https://github.com/KAFSALAH/KAFSALAH/blob/main/B.gif">
 </p>
 <p align="center">
-   <img src="https://github.com/KAFSALAH/KAFSALAH/blob/main/C.gif">
+   <img src="https://github.com/KAFSALAH/KAFSALAH/blob/main/F.gif">
   <img src="https://github.com/KAFSALAH/KAFSALAH/blob/main/D.gif">
 </p>
 
