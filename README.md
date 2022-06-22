@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://github.com/KAFSALAH/KAFSALAH/blob/main/A.gif">
-  <img src="https://github.com/KAFSALAH/KAFSALAH/blob/main/E.gif">
+  <img src="https://github.com/KAFSALAH/KAFSALAH/blob/main/B.gif">
 </p>
 <p align="center">
    <img src="https://github.com/KAFSALAH/KAFSALAH/blob/main/C.gif">
