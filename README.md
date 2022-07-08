@@ -1,10 +1,7 @@
 <p align="center">
-  <img src="https://github.com/KAFSALAH/KAFSALAH/blob/main/A.gif">
-  <img src="https://github.com/KAFSALAH/KAFSALAH/blob/main/G.gif">
-</p>
-<p align="center">
-   <img src="https://github.com/KAFSALAH/KAFSALAH/blob/main/F.gif">
-  <img src="https://github.com/KAFSALAH/KAFSALAH/blob/main/D.gif">
+  <img src="https://github.com/KAFSALAH/KAFSALAH/blob/main/A.gif" width="250" height="250">
+  <img src="https://github.com/KAFSALAH/KAFSALAH/blob/main/B.gif"width="250" height="250">
+  <img src="https://github.com/KAFSALAH/KAFSALAH/blob/main/M.gif"width="250" height="250">
 </p>
 
 
