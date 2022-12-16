@@ -9,4 +9,4 @@
 
 <a href="https://www.linkedin.com/in/kafsalah"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=KAFSALAH&show_icons=true&hide=prs,issues,&count_private=true&theme=dark)
+![Github stats](https://github-readme-stats.vercel.app/api?username=kafsalah&theme=dark)
